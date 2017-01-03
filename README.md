@@ -56,3 +56,4 @@ by a machine.
 ## Credits
 
 Inspired by the [Deis Contributing Standards](http://docs.deis.io/en/latest/contributing/standards/#commit-style-guide).
+Thanks [@freshtonic](https://github.com/freshtonic) for pointing me to the above.
