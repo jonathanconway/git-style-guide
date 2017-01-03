@@ -29,6 +29,16 @@ JIRA-123
 **Type**: Type of change being made. For example, adding a feature (`feat`) is
 different from fixing a bug (`bug`) or modifying documentation (`docs`).
 
+Examples of types you might use:
+* **feat**: feature
+* **fix**: bug fix
+* **docs**: documentation
+* **style**: formatting
+* **ref**: refactoring code
+* **test**: adding missing tests
+* **chore**: maintenance
+* **content**: textual content
+
 **Scope**: Scope of the change. This would usually refer to either a component
 of the system being worked on (e.g. `login-flow`) or a feature of the system
 (e.g. `keyword-search`).
