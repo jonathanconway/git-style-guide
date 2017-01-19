@@ -36,7 +36,7 @@ Examples of types you might use:
 * **style**: formatting
 * **ref**: refactoring code
 * **test**: adding missing tests
-* **chore**: maintenance
+* **chore**: maintenance or work-in-progress
 * **content**: textual content
 
 **Scope**: Scope of the change. This would usually refer to either a component
